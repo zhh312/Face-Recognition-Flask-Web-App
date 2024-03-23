@@ -27,10 +27,3 @@ Werkzeug==2.0.3
 gunicorn
 
 
-
-
-<<<<<<< HEAD:requirements.txt
-=======
-
-
->>>>>>> origin/main:requirement.txt
