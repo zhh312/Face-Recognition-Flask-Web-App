@@ -28,9 +28,3 @@ gunicorn
 
 
 
-
-<<<<<<< HEAD:requirements.txt
-=======
-
-
->>>>>>> origin/main:requirement.txt
